@@ -12,11 +12,6 @@
     <a href="https://github.com/Rhyme0730?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/Rhyme0730?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-
-    <a href="https://github.com/Rhyme0730/Rhyme0730" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Rhyme0730/Rhyme0730?label=profile%20updated&style=flat-square"></a>
-</p>
 
 <details>
 <summary>Click for GitHub Stats</summary>

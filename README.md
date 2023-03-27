@@ -1,15 +1,8 @@
 <!---![Monash UAS](https://raw.githubusercontent.com/Rhyme0730/Rhyme0730/master/images/Monash-UAS-Banner.jpg)--->
 
-![Monash UAS](https://raw.githubusercontent.com/Rhyme0730/Rhyme0730/master/images/Alwin.svg)
-
 <p align="center">
     <a href="https://github.com/Rhyme0730" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Rhyme0730-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/alwinrwang" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://www.researchgate.net/profile/Alwin_Wang" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-    <a href="https://orcid.org/0000-0003-4883-2917" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/5782687/alwin" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
-    <a href="https://stackexchange.com/users/4446338/alwin" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>
-</p>
+    <a href="https://www.linkedin.com/in/huaiyuan-rao-1b6727257/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 
 <p align="center">
     <a href="https://github.com/Rhyme0730?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
@@ -24,7 +17,6 @@
 <p align="center">
     <a href="https://github.com/Rhyme0730?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
     <a href="https://github.com/Rhyme0730" target="_blank"><img alt="Rhyme0730" src="https://badges.pufler.dev/visits/Rhyme0730/Rhyme0730?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <!--<a href="https://github.com/Rhyme0730" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/Rhyme0730/Rhyme0730?label=hits&style=flat-square"></a>-->
     <a href="https://github.com/Rhyme0730/Rhyme0730" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Rhyme0730/Rhyme0730?label=profile%20updated&style=flat-square"></a>
 </p>
 

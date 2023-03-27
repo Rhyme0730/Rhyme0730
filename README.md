@@ -1,4 +1,19 @@
-<!---![Monash UAS](https://raw.githubusercontent.com/Rhyme0730/Rhyme0730/master/images/Monash-UAS-Banner.jpg)--->
+<pre>
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/    
+     
+<strong>Hi, I am Rhyme-Rao!👋 </strong>
+
+<strong>A graduate student in Georgia tech. </strong>
 
 <p align="center">
     <a href="https://github.com/Rhyme0730" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Rhyme0730-181717?style=flat-square&logo=GitHub&logoColor=white"></a>

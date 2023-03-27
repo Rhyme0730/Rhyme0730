@@ -15,6 +15,9 @@
 
 <strong>A graduate student in Georgia tech. </strong>
 
+<strong>Interested in Control & Systems. </strong>
+</pre> 
+
 <p align="center">
     <a href="https://github.com/Rhyme0730" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Rhyme0730-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/huaiyuan-rao-1b6727257/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>

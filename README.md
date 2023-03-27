@@ -12,6 +12,7 @@
     <a href="https://github.com/Rhyme0730?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
 </p>
 
+<p align="center">
 <a href="mailto:rhyforever1008@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-rhyforever1008@163.com-blue?style=flat-square&logo=gmail"></a>
 
 <details>

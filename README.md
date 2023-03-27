@@ -21,3 +21,6 @@
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhyme0730&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
 </details>
+
+<a href="mailto:rhyforever1008@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-rhyforever1008@163.com-blue?style=flat-square&logo=gmail"></a>
+

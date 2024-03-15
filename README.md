@@ -16,7 +16,7 @@
 
 <strong>A graduate student in Georgia tech. </strong>
 
-<strong>Interested in Control & Systems. </strong>
+<strong>Interested in robotics & motion planning. </strong>
 </pre> 
 
 <p align="center">

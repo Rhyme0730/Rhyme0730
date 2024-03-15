@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-<a href="mailto:gtrhyme0730@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rhyforever1008@163.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:gtrhyme0730@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gtrhyme0730@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 <details>
 <summary>Click for GitHub Stats</summary>

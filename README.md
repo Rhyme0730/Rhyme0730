@@ -16,7 +16,6 @@
 
 <strong>A graduate student in Georgia tech. </strong>
 
-<strong>Interested in Safe Robotics Control and Reinforcement Learning. </strong>
 </pre> 
 
 <p align="center">

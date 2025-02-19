@@ -14,7 +14,7 @@
      
 <strong>Hi, I am Rhyme-Rao!👋 </strong>
 
-<strong>A graduate student in Georgia tech. </strong>
+<strong>A graduate student @ Georgia tech. </strong>
 
 </pre> 
 

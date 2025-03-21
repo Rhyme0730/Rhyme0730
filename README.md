@@ -12,9 +12,9 @@
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
      
-<strong>Hi, I am Rhyme-Rao!👋 </strong>
+<strong>Hi, I am Rhyme!👋 </strong>
 
-<strong>A graduate student @ Georgia tech. </strong>
+<strong>Keyword: Differential Privacy|Control|Robotics </strong>
 
 </pre> 
 

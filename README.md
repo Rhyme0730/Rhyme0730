@@ -14,7 +14,7 @@
      
 <strong>Hi, I am Rhyme!👋 </strong>
 
-<strong>Keyword: Differential Privacy|Control|Robotics </strong>
+<strong>Working on Differential Privacy|Control|Robotics </strong>
 
 </pre> 
 

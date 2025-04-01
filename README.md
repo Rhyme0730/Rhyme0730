@@ -19,15 +19,15 @@
 </pre> 
 
 <p align="center">
-    <a href="https://github.com/Rhyme0730" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Rhyme0730-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+<!--     <a href="https://github.com/Rhyme0730" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Rhyme0730-181717?style=flat-square&logo=GitHub&logoColor=white"></a> -->
 <!--     <a href="https://www.linkedin.com/in/huaiyuan-rao-1b6727257/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a> -->
 
 <p align="center">
-    <a href="https://github.com/Rhyme0730?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
+<!--     <a href="https://github.com/Rhyme0730?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a> -->
     <a href="https://github.com/Rhyme0730?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
 <!--     <a href="https://github.com/Rhyme0730?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a> -->
     <a href="https://github.com/Rhyme0730?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
-    <a href="https://github.com/Rhyme0730?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
+<!--     <a href="https://github.com/Rhyme0730?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a> -->
 </p>
 
 <p align="center">
